@@ -1,6 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-## Register No : 212224040036
-## Name : Asin Renix V
+## Register No : 212224230113
+## Name : Kamesh S
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
